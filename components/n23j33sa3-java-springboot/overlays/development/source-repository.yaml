@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n23j33sa3-java-springboot-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/n23j33sa3-java-springboot
